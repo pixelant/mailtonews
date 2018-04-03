@@ -8,7 +8,7 @@
 	},
 	"version": "2.2.1",
 	"replace": {
-		"go_maps_ext": "*"
+		"mailtonews": "*"
 	},
 	"require": {
 		"typo3/cms-core": "6.0.0 - 8.9.99"
